@@ -48,7 +48,7 @@ Current (A) = Total Power (W) / 220V
 
 ---
 
-## MCB Recommendation
+## Miniature Circuit Breaker(MCB) Recommendation
 
 | Current | Recommended MCB |
 |---------|-----------------|
@@ -156,4 +156,5 @@ Recommended Miniature Circuit Breaker: 6A
 
 ## Author
 
-Developed as a C++ learning project for Electrical and Electronic Engineering (EEE) students.
+MOHAMMAD SHAKHAWAT HOSSAIN SHRABON
+EEE,Ahsanullah University of science and technology,dhaka.
